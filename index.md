@@ -33,7 +33,7 @@ Created interactive visualizations showing global household access to clean drin
 
 ## 📬 Contact
 📧 **Email:** chloe.dealmeida@temple.edu 
-💼 **LinkedIn:** https://linkedin.com/in/chloedealmeida 
+💼 **LinkedIn:** https://linkedin.com/in/chloe-dealmeida 
 
 ---
 
