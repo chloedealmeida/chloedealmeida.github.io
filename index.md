@@ -10,10 +10,10 @@ Welcome to my portfolio site! This is a space where I share my projects, experie
 ---
 
 ## 📝 About Me
-I'm a college sophomore studying engineering with interests in data, energy, and design.  
+I'm a college sophomore studying electrical engineering at Temple University.  
 I love exploring how technology can solve real-world problems and documenting my journey here.  
 
-Outside of school, you can find me reading, traveling, and trying new coffee shops ☕.
+Outside of school, you can find me reading, traveling, and taking lots of pictures!
 
 ---
 
@@ -32,9 +32,8 @@ Created interactive visualizations showing global household access to clean drin
 ---
 
 ## 📬 Contact
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
-🐙 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+📧 **Email:** chloe.dealmeida@temple.edu 
+💼 **LinkedIn:** https://linkedin.com/in/chloedealmeida 
 
 ---
 
