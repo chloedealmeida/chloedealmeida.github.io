@@ -21,11 +21,11 @@ Outside of school, you can find me reading, traveling, and taking lots of pictur
 
 ### 🌬️ Wind Energy Analysis
 I analyzed wind data across six U.S. cities to assess turbine viability at different hub heights.  
-[🔗 View project here](#) *(link to GitHub repo or PDF report)*
+[🔗 View project here](https://tuprd-my.sharepoint.com/personal/tus91730_temple_edu/Documents/Classes/Sem%202/ENGR1102/Turbine%20Project/DeAlmeida_ProjectPart2_Report.pdf) *(link to GitHub repo or PDF report)*
 
 ### 🌊 Water Access Visualization
 Created interactive visualizations showing global household access to clean drinking water from 2000–2023.  
-[🔗 View project here](#)
+[🔗 View project here](file:///C:/Users/chloe/OneDrive%20-%20Temple%20University/Classes/Sem%202/ENGR1102/DataVisualization.pdf)
 
 *(Add more projects as you go!)*
 
