@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+{% include nav.html %}
 
 # 💻 Projects
 
