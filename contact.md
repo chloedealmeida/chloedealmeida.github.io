@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
+{% include nav.html %}
+
 # 📬 Contact Me
 
 **Email:** chloe.dealmeida@temple.edu  
