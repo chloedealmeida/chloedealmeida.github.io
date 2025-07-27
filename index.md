@@ -27,13 +27,13 @@ I analyzed wind data across six U.S. cities to assess turbine viability at diffe
 Created interactive visualizations showing global household access to clean drinking water from 2000–2023.  
 [🔗 View project here](file:///C:/Users/chloe/OneDrive%20-%20Temple%20University/Classes/Sem%202/ENGR1102/DataVisualization.pdf)
 
-*(Add more projects as you go!)*
 
 ---
 
 ## 📬 Contact
 📧 **Email:** chloe.dealmeida@temple.edu 
 💼 **LinkedIn:** https://linkedin.com/in/chloe-dealmeida 
+![IMG_1840](https://github.com/user-attachments/assets/7cc3012e-a18d-4d2f-a992-686437a81e86)
 
 ---
 
