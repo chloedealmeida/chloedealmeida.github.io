@@ -25,4 +25,4 @@ This project analyzed wind data from six U.S. cities (Philadelphia, Mesa, Chicag
 - Profitability varied significantly by location, with the best sites breaking even in under 10 years.
 
 **Report:**
-https://tuprd-my.sharepoint.com/personal/tus91730_temple_edu/Documents/Classes/Sem%202/ENGR1102/Turbine%20Project/DeAlmeida_ProjectPart2_Report.pdf
+https://tuprd-my.sharepoint.com/:b:/g/personal/tus91730_temple_edu/EWXkcmH5bIdCkN4tVoSz7pgB7Lm0rlKCbri2O-d3-eGEIA?e=XNEmea
