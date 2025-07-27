@@ -20,9 +20,9 @@ The goal was to **maintain the temperature inside the box within a specific rang
 - Programmed the Micro:bit to:
   - **Turn the heater on/off** to keep the incubator within the target range.
   - **Display symbols** on the LED grid:
-    - ✅ **✔️ symbol** when the temperature was in range.
+    - ✅ **symbol** when the temperature was in range.
     - 🔺 **Warning symbol** if it became too hot.
-    - ❌ **👎 symbol** if it became too hot for more than 10 seconds.
+    - ❌ **symbol** if it became too hot for more than 10 seconds.
 
 ---
 
