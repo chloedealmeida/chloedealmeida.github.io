@@ -5,7 +5,7 @@ title: Water Access Visualization
 
 {% include nav.html %}
 
-# 💧 Water Access Visualization
+# Water Access Visualization
 
 This project explores **global access to clean drinking water** from 2000–2023.
 
