@@ -5,7 +5,7 @@ title: About Me
 
 {% include nav.html %}
 
-# 👩‍🎓 About Me
+# About Me
 
 Hi, I'm Chloe! I'm a college sophomore studying electrical engineering at Temple University.  
 I love exploring how technology can solve real-world problems and documenting my journey here.  
