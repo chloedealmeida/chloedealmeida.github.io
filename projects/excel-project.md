@@ -5,7 +5,7 @@ title: Excel Data Analysis Project
 
 {% include nav.html %}
 
-# 📊 Excel Data Analysis Project
+# Excel Data Analysis Project
 
 A project focused on using **Microsoft Excel** for real-world data analysis.
 
@@ -18,4 +18,4 @@ A project focused on using **Microsoft Excel** for real-world data analysis.
 - Excel is powerful for quick analysis without coding.
 - Proper formatting and structure make analysis much faster.
 
-📈 **Next Steps:** Converting parts of this workflow into Python scripts for automation.
+**Next Steps:** Converting parts of this workflow into Python scripts for automation.
