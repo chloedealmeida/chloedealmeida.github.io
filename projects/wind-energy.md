@@ -5,7 +5,7 @@ title: Wind Energy Analysis
 
 {% include nav.html %}
 
-# 🌬️ Wind Energy Analysis
+# Wind Energy Analysis
 
 This project analyzed wind data from six U.S. cities (Philadelphia, Mesa, Chicago, New Orleans, Springfield, Salt Lake City) to evaluate wind turbine viability at hub heights of 100m, 150m, and 200m.
 
